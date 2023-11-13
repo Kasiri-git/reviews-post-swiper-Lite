@@ -3,7 +3,7 @@
  * Plugin Name: ReviewsPostSwiper
  * Plugin URI: プラグインURL
  * Description: 口コミを投稿し、スライド形式で表示するプラグイン。
- * Version: 1.0.0
+ * Version: 1.0.3
  * Author: Kasiri
  * Author URI: https://kasiri.icu
  * License: GPL2
